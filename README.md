@@ -43,7 +43,6 @@ Cart Page:
 
 **Video Demo**   
 
-https://github.com/deepparekh02/user-login-registration/assets/65657471/95a6195c-1043-4c48-9187-dedf7776ce9d
 
 
 
