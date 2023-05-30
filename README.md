@@ -43,6 +43,8 @@ Cart Page:
 
 **Video Demo**   
 
+https://github.com/deepparekh02/ecommerce-fullstack/assets/65657471/e313abd8-13a1-44af-90ec-32bf8621c6b1
+
 
 
 
