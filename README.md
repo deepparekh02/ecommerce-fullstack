@@ -27,16 +27,17 @@ MongoDB, Mongoose, Express, React, React-Bootstrap, Axios, NodeJS, JS-image-zoom
 **Screenshots**  
   
 Home Page:
-<img width="1440" alt="register-page" src="https://github.com/deepparekh02/user-login-registration/assets/65657471/63453a0a-3c1d-43d7-8bf8-5d7045b1abca">
+<img width="1440" alt="home-page-1" src="https://github.com/deepparekh02/ecommerce-fullstack/assets/65657471/af8f9280-dc2f-4678-b417-03bc447a606f">
+<img width="1440" alt="home-page-2" src="https://github.com/deepparekh02/ecommerce-fullstack/assets/65657471/a778b54a-9602-435f-b070-0e0455281f56">
   
 Product List Page:
-<img width="1440" alt="login-page" src="https://github.com/deepparekh02/user-login-registration/assets/65657471/d600ecf9-1ced-4b83-9bd3-271bb636eb83">
-  
+<img width="1440" alt="product-list-page" src="https://github.com/deepparekh02/ecommerce-fullstack/assets/65657471/fbc8b98d-8fe1-413d-a094-5d84888a2897">
+
 Product Details Page:
-<img width="1440" alt="cookie-sent" src="https://github.com/deepparekh02/user-login-registration/assets/65657471/d6dbd94a-60ea-4b61-825b-985be86b467f">
-  
+<img width="1440" alt="product-details-page" src="https://github.com/deepparekh02/ecommerce-fullstack/assets/65657471/acac4b04-123e-49fb-a17c-3a94c9a6dc47">
+ 
 Cart Page:  
-<img width="1440" alt="profile-page" src="https://github.com/deepparekh02/user-login-registration/assets/65657471/2b8b9f5e-4de6-43ef-8086-f77ec16612b0">
+<img width="1440" alt="cart-page" src="https://github.com/deepparekh02/ecommerce-fullstack/assets/65657471/b41b7b5e-aa97-427d-a7fc-4da99144721c">
 
 ***
 
